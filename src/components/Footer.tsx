@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-6">
         <div className="grid md:grid-cols-4 gap-10 mb-10">
           <div className="md:col-span-2">
-            <img src="/logo.png" alt="Çallım Tibbi" className="h-14 w-auto mb-4 opacity-95" />
+            <img src="/logo.png" alt="Çallım Tibbi" className="w-36" />
             <p className="text-white/50 text-sm leading-relaxed max-w-xs">
               Yuxu, solunum, ortopedik xidmətlər və ambulans — Bakı, İzmir, İstanbul ofisləri ilə tam əhatə.
             </p>
